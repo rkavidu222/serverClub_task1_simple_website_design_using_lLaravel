@@ -15,7 +15,7 @@
             <input type="email" id="email" class="form-control" placeholder="email@example.com">
         </div>
         <div class="col-12">
-            <label for="message" class="form-label">Message</label>
+            <label for="message" class="form-label">Contact</label>
             <textarea id="message" rows="4" class="form-control" placeholder="Write your message..."></textarea>
         </div>
         <div class="col-12">
